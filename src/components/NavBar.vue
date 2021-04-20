@@ -1,7 +1,7 @@
 <template>
-  <div class="mx-auto">
+  <div class="bg-blue-500 p-4">
     <div
-      class="bg-blue-500 p-4 flex-place-items-center space-x-2 text-white font-bold text-3xl"
+      class="flex-place-items-center space-x-2 text-white font-bold text-3xl container mx-auto"
     >
       <div>
         <simple-line-icons-note class="inline-block" />
